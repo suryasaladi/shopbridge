@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "itemName": "Mobile",
+      "itemPrice": 2300,
+      "itemDescription": "Vivo",
+      "itemCatoegory": "electronics",
+      "id": 1
+    },
+    {
+      "itemName": "Mobile",
+      "itemPrice": 2300,
+      "itemDescription": "Vivo",
+      "itemCatoegory": "fashion",
+      "id": 2
+    }
+  ]
+}
